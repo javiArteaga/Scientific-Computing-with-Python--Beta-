@@ -97,3 +97,4 @@ Como parte de su certificación, **Javiera Arteaga Moncado** desarrolló un proy
 Este proyecto demuestra una comprensión sólida de la programación orientada a objetos, incluyendo la creación de clases, la herencia, y la implementación de métodos específicos para realizar cálculos geométricos.
 
 ---
+
